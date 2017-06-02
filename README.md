@@ -1,5 +1,5 @@
-
 #安全相关书籍收集
+(update/2017-06-02)
 
 
   [增长黑客:创业公司的用户与收入增长秘籍](https://jobrest.gitbooks.io/growthhacking/content/)
@@ -62,7 +62,10 @@
                     
   [格式化字符串漏洞利用](https://wizardforcel.gitbooks.io/exp-fmt-str-vul/content/)
                     
-                    [This link](http://example.net/)[This link](http://example.net/)
-                    [This link](http://example.net/)
-                    [This link](http://example.net/)[This link](http://example.net/)[This link](http://example.net/)
+[This link](http://example.net/)
+[This link](http://example.net/)
+ [This link](http://example.net/)
+  [This link](http://example.net/)
+  [This link](http://example.net/)
+  [This link](http://example.net/)
                     
